@@ -72,6 +72,8 @@ Reference: \
 ### Contact:
 Dr. Yubai Yuan: yvy5509@psu.edu
 
+### License: GPL-3.0
+
 
 
 
