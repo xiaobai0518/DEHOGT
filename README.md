@@ -19,7 +19,7 @@ This github repository includes the necessary dataset and codes for generate the
 Software: R version 4.1.2 \
 Please install the following R packages:
 
-1.DESeq2\
+1. DESeq2\
 2. DESeqAnalysis\
 3. openxlsx\
 4. tibble\
@@ -44,7 +44,9 @@ Run the codes in file **simulation_setting_1.R**
 
 Run the codes in file **simulation_setting_2.R** 
 
+### Experiments on Microglia RNA-seq read count data
 
+First load function in file **get_gene_annotation.R** and data
 
 
 
